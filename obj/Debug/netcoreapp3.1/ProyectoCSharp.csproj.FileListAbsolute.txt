@@ -1,0 +1,13 @@
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\bin\Debug\netcoreapp3.1\ProyectoCSharp.exe
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\bin\Debug\netcoreapp3.1\ProyectoCSharp.deps.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\bin\Debug\netcoreapp3.1\ProyectoCSharp.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\bin\Debug\netcoreapp3.1\ProyectoCSharp.runtimeconfig.dev.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\bin\Debug\netcoreapp3.1\ProyectoCSharp.dll
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\bin\Debug\netcoreapp3.1\ProyectoCSharp.pdb
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\obj\Debug\netcoreapp3.1\ProyectoCSharp.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\obj\Debug\netcoreapp3.1\ProyectoCSharp.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\obj\Debug\netcoreapp3.1\ProyectoCSharp.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\obj\Debug\netcoreapp3.1\ProyectoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\obj\Debug\netcoreapp3.1\ProyectoCSharp.dll
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\obj\Debug\netcoreapp3.1\ProyectoCSharp.pdb
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\obj\Debug\netcoreapp3.1\ProyectoCSharp.genruntimeconfig.cache
