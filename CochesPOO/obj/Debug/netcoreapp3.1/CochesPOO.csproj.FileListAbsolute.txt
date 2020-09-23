@@ -1,0 +1,13 @@
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\bin\Debug\netcoreapp3.1\CochesPOO.exe
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\bin\Debug\netcoreapp3.1\CochesPOO.deps.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\bin\Debug\netcoreapp3.1\CochesPOO.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\bin\Debug\netcoreapp3.1\CochesPOO.runtimeconfig.dev.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\bin\Debug\netcoreapp3.1\CochesPOO.dll
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\bin\Debug\netcoreapp3.1\CochesPOO.pdb
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\obj\Debug\netcoreapp3.1\CochesPOO.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\obj\Debug\netcoreapp3.1\CochesPOO.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\obj\Debug\netcoreapp3.1\CochesPOO.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\obj\Debug\netcoreapp3.1\CochesPOO.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\obj\Debug\netcoreapp3.1\CochesPOO.dll
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\obj\Debug\netcoreapp3.1\CochesPOO.pdb
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\CochesPOO\obj\Debug\netcoreapp3.1\CochesPOO.genruntimeconfig.cache
