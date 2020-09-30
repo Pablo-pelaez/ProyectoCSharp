@@ -1,0 +1,13 @@
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\obj\Debug\netcoreapp3.1\29-09Ejemplo.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\obj\Debug\netcoreapp3.1\29-09Ejemplo.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\obj\Debug\netcoreapp3.1\29-09Ejemplo.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\obj\Debug\netcoreapp3.1\29-09Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\bin\Debug\netcoreapp3.1\29-09Ejemplo.exe
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\bin\Debug\netcoreapp3.1\29-09Ejemplo.deps.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\bin\Debug\netcoreapp3.1\29-09Ejemplo.runtimeconfig.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\bin\Debug\netcoreapp3.1\29-09Ejemplo.runtimeconfig.dev.json
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\bin\Debug\netcoreapp3.1\29-09Ejemplo.dll
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\bin\Debug\netcoreapp3.1\29-09Ejemplo.pdb
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\obj\Debug\netcoreapp3.1\29-09Ejemplo.dll
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\obj\Debug\netcoreapp3.1\29-09Ejemplo.pdb
+C:\Users\Juan Pablo\Desktop\PROYECTOS\ProyectoC#\ProyectoCSharp\29-09Ejemplo\obj\Debug\netcoreapp3.1\29-09Ejemplo.genruntimeconfig.cache
